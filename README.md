@@ -1,2 +1,5 @@
 # UMBRA
 hackathon project
+# USE INSTALL.BAT if you do not have python installed
+# USE SETUP.BAT TO INSTALL ALL THE REQUIERED LIBRARIES
+# USE RUN.BAT TO LAUNCH UMBRA IF YOU WANT
